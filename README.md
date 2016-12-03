@@ -1,4 +1,4 @@
-## XShot
+# XShot
 
 A cross-platform screen shot tool.
 
@@ -19,6 +19,6 @@ XShot aims to make certain tasks more efficient.
 
 ## todo-list
 
-- [  ] Color picker
-- [  ] Screen color picker
-- [  ] Simple Image editor
+- [ ] Color picker
+- [ ] Screen color picker
+- [ ] Simple Image editor
