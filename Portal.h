@@ -19,9 +19,13 @@ public:
     ~Portal();
 
 private slots:
-    int onCapture(); //获取截图
+    int onDesktopCapture(); //截取桌面
+    int onWindowCapture(); //截取窗口
     int onSave(); //保存截图
     int onDelayedCapture(); //延迟截图！
+    int about(); //关于本程序
+    int aboutQt(); //关于Qt
+    int onExit(); //关闭程序
 
 protected:
     void changeEvent(QEvent* e);
